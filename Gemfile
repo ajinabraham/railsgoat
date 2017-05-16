@@ -97,3 +97,4 @@ gem 'mailcatcher'
 
 #For Rails 4.2
 gem 'responders'
+gem 'immunio'
